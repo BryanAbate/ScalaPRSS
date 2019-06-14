@@ -53,6 +53,6 @@ Do `mvn test`
 ## See the scaladoc
 Open index.html inside the docs folder.
 
-## Needed features
+## TODO list
 * Move from Maven to sbt
 * Make the library available as an sbt package
