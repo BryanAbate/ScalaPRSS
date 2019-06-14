@@ -51,7 +51,7 @@ Or to encrypt a file *file_name* using PRSS and ElGamal encryption with 5 partic
 Do `mvn test`
 
 ## See the scaladoc
-Open index.html inside the scaladocs folder.
+Open index.html inside the docs folder.
 
 ## Needed features
 * Move from Maven to sbt
