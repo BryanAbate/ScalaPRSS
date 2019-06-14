@@ -51,8 +51,9 @@ Or to encrypt a file *file_name* using PRSS and ElGamal encryption with 5 partic
 Do `mvn test`
 
 ## See the scaladoc
-Open index.html inside the docs folder.
+Open index.html inside the docs folder or see it here: [https://bryanabate.github.io/ScalaPRSS/](https://bryanabate.github.io/ScalaPRSS/)
 
 ## TODO list
 * Move from Maven to sbt
 * Make the library available as an sbt package
+* change package from babate to scalaprss
